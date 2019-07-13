@@ -1,1 +1,0 @@
-int isdir(char *path);
